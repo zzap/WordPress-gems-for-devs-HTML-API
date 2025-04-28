@@ -1,1 +1,1 @@
-# WordPress-gems-for-devs-HTML-API
+# WordPress gems for devs: HTML API
