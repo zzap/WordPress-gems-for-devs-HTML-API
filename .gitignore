@@ -22,5 +22,5 @@ wp-content/themes/*
 
 # Plugins folder
 wp-content/plugins/*
-# Plugins that will be created
 !wp-content/plugins/wpgems/
+!wp-content/plugins/HTML-Serialization-Builder/
