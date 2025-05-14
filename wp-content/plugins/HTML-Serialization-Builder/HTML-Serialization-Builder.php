@@ -98,7 +98,7 @@ if ( ! class_exists( 'HTML_Serialization_Builder' ) ) {
 			if ( $inner_p->is_tag_closer() ) {
 				$inner_p->next_token();
 			}
-			$has_more_tokens = ! $inner_p->is_virtual() && $inner_p->next_token();
+			$has_more_tokens = $inner_p->next_token();
 
 			$this->output    .= $this->last_token;
 			$this->output    .= $has_more_tokens ? '' : $inner_html;
@@ -137,7 +137,7 @@ if ( ! class_exists( 'HTML_Serialization_Builder' ) ) {
 			if ( $inner_p->is_tag_closer() ) {
 				$inner_p->next_token();
 			}
-			$has_more_tokens = ! $inner_p->is_virtual() && $inner_p->next_token();
+			$has_more_tokens = $inner_p->next_token();
 
 			if ( $has_more_tokens ) {
 				$this->output .= $this->last_token;
