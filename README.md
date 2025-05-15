@@ -14,6 +14,8 @@ It makes manipulating HTML faster, easier, and more controlled, making jQuery/Ja
 
 It is built completely custom, starting with [HTML standards](https://html.spec.whatwg.org/), which means the parser is never surprised by the HTML it receives but rather it supports the HTML we will probably never see.
 
+**Interactivity API wouldn't be possible without it.**
+
 ### Reference
 
 - [WP_HTML_Tag_Processor](https://developer.wordpress.org/reference/classes/wp_html_tag_processor/)
