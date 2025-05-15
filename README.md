@@ -4,13 +4,13 @@ Repository for code examples and resources used in the "WordPress gems for devs:
 
 | Event  | Date | Branch | Links |
 | --- | --- | --- | --- |
-| WordPress Meetup Lisboa | 15 May 2025 | [meetup/lisboa-0525]() | [Event](https://www.meetup.com/wordpress-lisboa/events/307191616/) \| [Slides]() |
+| WordPress Meetup Lisboa | 15 May 2025 | [meetup/lisboa-0525]() | [Event](https://www.meetup.com/wordpress-lisboa/events/307191616/) \| [Slides](https://docs.google.com/presentation/d/1oaKb1lBPcIZ-Fcby00k4gyS4TtE5cApb4xOb97qI7uQ/edit?usp=sharing) |
 
 ## HTML API
 
 ### What problems does it solve?
 
-It makes manipulation of HTML faster, easier and more controlled.
+It makes manipulating HTML faster, easier, and more controlled, making jQuery/JavaScript obsolete for many use cases. 
 
 It is built completely custom, starting with [HTML standards](https://html.spec.whatwg.org/), which means the parser is never surprised by the HTML it receives but rather it supports the HTML we will probably never see.
 
@@ -23,6 +23,7 @@ It is built completely custom, starting with [HTML standards](https://html.spec.
   - [remove_attribute()](https://developer.wordpress.org/reference/classes/wp_html_tag_processor/remove_attribute/)
   - [get_updated_html()](https://developer.wordpress.org/reference/classes/wp_html_tag_processor/get_updated_html/)
 - [WP_HTML_Processor](https://developer.wordpress.org/reference/classes/wp_html_processor/)
+  - [HTML_Serialization_Builder](https://gist.github.com/dmsnell/ff758c13e8d41bf9f0b75f3fd42ad1e5)? 😲
 
 ### Examples
 
@@ -38,6 +39,7 @@ It is built completely custom, starting with [HTML standards](https://html.spec.
 ### Resources
 
 - [HTML Tag Processor Roadmap](https://github.com/WordPress/gutenberg/issues/44410)
+- [Progress Report: HTML API](https://make.wordpress.org/core/2023/08/19/progress-report-html-api/)
 - [Introducing the HTML API in WordPress 6.2](https://make.wordpress.org/core/2023/03/07/introducing-the-html-api-in-wordpress-6-2/)
 - [HTML standards](https://html.spec.whatwg.org/)
 
