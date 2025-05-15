@@ -675,7 +675,7 @@
 			},
 			"link": {
 				"color": {
-					"text": "currentColor"
+					"text": "#ff0000"
 				},
 				":hover": {
 					"typography": {
