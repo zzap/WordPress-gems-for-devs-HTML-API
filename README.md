@@ -23,7 +23,7 @@ It is built completely custom, starting with [HTML standards](https://html.spec.
   - [remove_attribute()](https://developer.wordpress.org/reference/classes/wp_html_tag_processor/remove_attribute/)
   - [get_updated_html()](https://developer.wordpress.org/reference/classes/wp_html_tag_processor/get_updated_html/)
 - [WP_HTML_Processor](https://developer.wordpress.org/reference/classes/wp_html_processor/)
-  - [HTML_Serialization_Builder](https://gist.github.com/dmsnell/ff758c13e8d41bf9f0b75f3fd42ad1e5)? 😲
+  - [HTML_Serialization_Builder](https://gist.github.com/dmsnell/ff758c13e8d41bf9f0b75f3fd42ad1e5)? 😱
 
 ### Examples
 
