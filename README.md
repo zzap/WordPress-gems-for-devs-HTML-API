@@ -4,13 +4,13 @@ Repository for code examples and resources used in the "WordPress gems for devs:
 
 | Event  | Date | Branch | Links |
 | --- | --- | --- | --- |
-| WordPress Meetup Lisboa | 15 May 2025 | [meetup/lisboa-0525]() | [Event](https://www.meetup.com/wordpress-lisboa/events/307191616/) \| [Slides](https://docs.google.com/presentation/d/1oaKb1lBPcIZ-Fcby00k4gyS4TtE5cApb4xOb97qI7uQ/edit?usp=sharing) |
+| WordPress Meetup Lisboa | 15 May 2025 | [meetup/lisboa-0525](https://github.com/zzap/WordPress-gems-for-devs-HTML-API/tree/meetup/lisboa-0525) | [Event](https://www.meetup.com/wordpress-lisboa/events/307191616/) \| [Slides](https://docs.google.com/presentation/d/1oaKb1lBPcIZ-Fcby00k4gyS4TtE5cApb4xOb97qI7uQ/edit?usp=sharing) |
 
 ## HTML API
 
 ### What problems does it solve?
 
-It makes manipulating HTML faster, easier, and more controlled, making jQuery/JavaScript obsolete for many use cases. 
+It makes manipulating HTML faster, easier, and more controlled, making jQuery/JavaScript obsolete for many use cases.
 
 It is built completely custom, starting with [HTML standards](https://html.spec.whatwg.org/), which means the parser is never surprised by the HTML it receives but rather it supports the HTML we will probably never see.
 
