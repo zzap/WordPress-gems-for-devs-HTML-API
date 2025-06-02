@@ -4,6 +4,7 @@ Repository for code examples and resources used in the "WordPress gems for devs:
 
 | Event  | Date | Branch | Links |
 | --- | --- | --- | --- |
+| IPC Berlin 2025 | 4 June 2025 | [conf/IPC-Berlin-2025]() | [Event](https://phpconference.com/php-core-coding/wordpress-html-api/) \| [Slides](https://docs.google.com/presentation/d/1zpg0adSxCwuFhgeGGXA2QBB92oky36IMPdbmX-xfc5I/edit?usp=sharing) |
 | WordPress Meetup Lisboa | 15 May 2025 | [meetup/lisboa-0525](https://github.com/zzap/WordPress-gems-for-devs-HTML-API/tree/meetup/lisboa-0525) | [Event](https://www.meetup.com/wordpress-lisboa/events/307191616/) \| [Slides](https://docs.google.com/presentation/d/1oaKb1lBPcIZ-Fcby00k4gyS4TtE5cApb4xOb97qI7uQ/edit?usp=sharing) |
 
 ## HTML API
