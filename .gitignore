@@ -26,3 +26,4 @@ wp-content/plugins/*
 !wp-content/plugins/wpgems/
 !wp-content/plugins/HTML-Serialization-Builder/
 !wp-content/plugins/WP-HTML-Search/
+!wp-content/plugins/wpgems.php
